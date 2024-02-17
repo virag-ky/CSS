@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  position: relative;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 2rem;
+}
+
+nav ul {
+  display: flex;
+  gap: 2rem;
+}
+
+li {
+  list-style: none;
+  cursor: pointer;
+}
+
+main {
+  padding: 2rem;
+}
+
+h1 {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+section {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  width: 90%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+
+img {
+  object-fit: cover;
+}
+
+figcaption {
+  font-size: 0.6rem;
+  text-align: center;
+}
+
+footer {
+  position: absolute;
+  top: 100%;
+  width: 100%;
+  text-align: center;
+  padding: 2rem;
+}
+
+/* Don't add anything below this line */
+@media (max-width: 600px) {
+  section {
+    flex-direction: column;
+  }
+}
