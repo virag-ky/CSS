@@ -1,6 +1,6 @@
 # CSS
 
-In this repository, you will find all the homework that belong to the CSS playlist.
+In this repository, you will find all the homework that belongs to the [CSS playlist](https://www.youtube.com/watch?v=2yyTcoW2Lc8&list=PLjMZRyJvyMLbjAC1Q1U9UF6V45ym9TbDW).
 
 ## How to use this repository?
 
