@@ -1,7 +1,7 @@
 # Flexbox
 
 ### Video:
-[![Watch the video](https://img.youtube.com/vi/2yyTcoW2Lc8/hqdefault.jpg)](https://www.youtube.com/embed/2yyTcoW2Lc8)
+[![Watch the video](https://img.youtube.com/vi/nMYsVc2-WRY/hqdefault.jpg)](https://www.youtube.com/embed/nMYsVc2-WRY)
 
 **If you are new to Git and GitHub then make sure to check out my video: [Git and GitHub for absolute beginners](https://youtu.be/WaAsfuVDJ_U?si=q4UFgWQH-uWIMBUu)**
 
