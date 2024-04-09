@@ -1,4 +1,4 @@
-# Introduction to CSS
+# Flexbox
 
 ### Video:
 [![Watch the video](https://img.youtube.com/vi/2yyTcoW2Lc8/hqdefault.jpg)](https://www.youtube.com/embed/2yyTcoW2Lc8)
@@ -24,6 +24,9 @@ Sync the repository if there are changes in the upstream, then follow the steps 
 6. Open the copied html file inside your browser (you can use the Live Server extension from VSCode)
 7. Examine the HTML code and after that go to the styles.css file and solve the exercises (you have to align the items as in the image below)
 
+![flexbox-exercises](https://github.com/virag-ky/CSS/assets/79658534/e087fcc4-da7e-4297-9627-f77b03945b76)
+
+
 **Exercise 1:**
 - the flex items have to fill up the whole available space in the flex container
 
@@ -34,7 +37,7 @@ Sync the repository if there are changes in the upstream, then follow the steps 
 - the flex items should be aligned vertically on the bottom of the flex container and have a 5px space between them
 
 **Exercise 4:**
-- the second flex item should have a width of 200px and should not grow or shrink
+- the flex items should be centered in the flex container and the second flex item should have a width of 200px and should not grow or shrink
 
 **Exercise 5:**
 - the flex items should have a width of 200px and they should not grow to fill up the available space but they should wrap when the flex container is shrinking
