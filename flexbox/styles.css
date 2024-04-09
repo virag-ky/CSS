@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2 {
+  margin: 5rem 5rem -3rem 5rem;
+}
+
+.flex-container {
+  margin: 5rem;
+  background: slateblue;
+  height: 200px;
+}
+
+.flex-item {
+  height: 50px;
+  padding: 12px 0;
+  text-align: center;
+  background: sandybrown;
+  border: 4px solid black;
+}
+
+/* Don't touch the code above, put your solutions below */
+/* Use the appropriate selectors to select the given containers and items for each exercise */
+
+/* Exercise 1 */
+
+
+
+/* Exercise 2 */
+
+
+
+/* Exercise 3 */
+
+
+
+/* Exercise 4 */
+
+
+
+/* Exercise 5 */
