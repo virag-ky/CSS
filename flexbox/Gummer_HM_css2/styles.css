@@ -72,7 +72,7 @@ flex-basis: 100%;
 .container-4 > .flex-item{
   
   
-  width: 120px;
+  width: 200px;
   flex: auto;
   
   }
@@ -89,9 +89,10 @@ flex-basis: 100%;
 /* Exercise 5 */
 .container-5{
   display: flex;
+  flex-wrap: wrap;
   
 } 
 .container-5 > .flex-item{
     
-    width: 120px;
+    width: 200px;
  }
